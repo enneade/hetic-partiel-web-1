@@ -834,7 +834,7 @@ input:focus, textarea:focus, *:required:focus {
 }
 
 .overlay.light::after {
-  background-image: url('images/demo/backgrounds/lucifer.jpg');
+  background-image: url('images/lucifer.jpg');
 }
 
 .btn, .btn.inverse:hover {
