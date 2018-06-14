@@ -844,9 +844,10 @@ input:focus, textarea:focus, *:required:focus {
 }
 
 .btn:hover, .btn.inverse {
-  color: inherit;
+  color: red;
   background-color: transparent;
   border-color: inherit;
+  transition: 300ms;
 }
 
 .imgover:hover::before {
